@@ -3,9 +3,9 @@
 This project demonstrates how to use a **PC817 optocoupler** to safely trigger a **reset signal** on a Heltec WiFi LoRa 32 (ESP32) board, controlled by a **Digispark (ATtiny85)**.  
 Both devices share the same battery power source, and the PC817 provides logical isolation and level adaptation between 5 V and 3.3 V logic.
 
-![Circuit Diagram](schematic.jpg)
-![Example 1](example1.jpg)
-![Example 2](example2.jpg)
+![Circuit Diagram](/res/schematic.jpg)
+![Example 1](/res/example1.jpg)
+![Example 2](/res/example2.jpg)
 
 ---
 
