@@ -7,6 +7,8 @@ Both devices share the same battery power source, and the PC817 provides logical
 
 [![Demo video](/res/vid_preview.JPG)](https://youtu.be/a9msRpQNriQ?si=zAMqpEiD6hS0AUDT)
 
+<a href="https://youtu.be/a9msRpQNriQ?si=zAMqpEiD6hS0AUDT" target="_blank">DEMONSTRATION VIDEO</a>
+
 ![Example 1](/res/example1.jpg)
 ![Example 2](/res/example2.jpg)
 ![Example 3](/res/example3.jpg)
