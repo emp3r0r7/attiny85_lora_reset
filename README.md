@@ -4,6 +4,9 @@ This project demonstrates how to use a **PC817 optocoupler** to safely trigger a
 Both devices share the same battery power source, and the PC817 provides logical isolation and level adaptation between 5 V and 3.3 V logic.
 
 ![Circuit Diagram](/res/schematic.jpg)
+
+[![Demo video](/res/vid_preview.JPG)](https://youtu.be/a9msRpQNriQ?si=zAMqpEiD6hS0AUDT)
+
 ![Example 1](/res/example1.jpg)
 ![Example 2](/res/example2.jpg)
 ![Example 3](/res/example3.jpg)
